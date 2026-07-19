@@ -106,5 +106,6 @@ A secure banking web application focused on authentication, authorization, secur
 
 ---
 
-⭐ *"Building secure, scalable, and impactful software one project at a time."*\n
+⭐ *"Building secure, scalable, and impactful software one project at a time."*
+
 📧 **Email:** **kushalmajiwork@gmail.com**
