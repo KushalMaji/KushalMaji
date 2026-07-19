@@ -1,16 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kushal Maji</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | DSA Enthusiast</h3>
 
-<!--
-**KushalMaji/KushalMaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/KushalMaji">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor;DSA+Enthusiast" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Full-Stack Development & Cybersecurity
+- 🔐 Interested in Post-Quantum Cryptography & Secure Systems
+- 🚀 Currently building scalable web applications and DevOps tools
+- 🌱 Always learning new technologies and contributing to open source
+
+---
+
+## 🚀 Featured Projects
+
+### 🚀 DeployX
+A beginner-friendly CI/CD platform that automates application deployment using **Node.js, Express, TypeScript, Docker, AWS EC2, and GitHub Actions**.
+
+**Tech Stack**
+
+`Node.js` `Express` `TypeScript` `Docker` `AWS EC2` `GitHub Actions`
+
+---
+
+### 🔐 Post-Quantum Secure Chat
+
+A secure communication system implementing **ML-KEM-768** for quantum-resistant key exchange and **AES-256** for encrypted messaging.
+
+**Tech Stack**
+
+`C` `liboqs` `ML-KEM-768` `AES-256` `SeedLabs` `Kali Linux`
+
+---
+
+### 🏦 SecureBank
+
+A secure banking web application focused on authentication, authorization, secure transactions, and modern web security best practices.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `bcrypt`
+
+---
+
+### 🛡️ Post-Quantum MITM Protection
+
+A cybersecurity research project demonstrating secure communication against Man-in-the-Middle attacks using **ML-KEM-768** and the Open Quantum Safe library.
+
+**Tech Stack**
+
+`C` `liboqs` `ML-KEM-768` `SeedLabs` `Linux`
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KushalMaji&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalMaji&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KushalMaji&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KushalMaji&theme=tokyonight&margin-w=15&no-frame=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/KushalMaji">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=KushalMaji&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+⭐ *"Building secure, scalable, and impactful software one project at a time."*
