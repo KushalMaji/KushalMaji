@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science Student studying at B.N.M. Institute of Technology
 - 💻 Passionate about Full-Stack Development & Cybersecurity
 - 🔐 Interested in Post-Quantum Cryptography & Secure Systems
 - 🚀 Currently building scalable web applications and DevOps tools
@@ -90,22 +90,18 @@ A secure banking web application focused on authentication, authorization, secur
 
 <p align="left">
 
-<a href="https://github.com/KushalMaji">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/KushalMaji" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/kushal-maji-578688420/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/kushal-maji-578688420/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-</p>
+<a href="mailto:kushalmajiwork@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=KushalMaji&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
