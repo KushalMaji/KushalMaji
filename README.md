@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Kushal Maji</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | DSA Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Kushal Maji</h1>
+
+<h3 align="center">
+Full-Stack Developer • Cybersecurity Enthusiast • DSA Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/KushalMaji">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor;DSA+Enthusiast" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Post-Quantum+Cryptography;Node.js+%7C+React+%7C+AWS+%7C+Docker;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student studying at B.N.M. Institute of Technology
-- 💻 Passionate about Full-Stack Development & Cybersecurity
-- 🔐 Interested in Post-Quantum Cryptography & Secure Systems
-- 🚀 Currently building scalable web applications and DevOps tools
-- 🌱 Always learning new technologies and contributing to open source
+const kushal = {
+    location: "India",
+    role: "Full-Stack Developer",
+    interests: [
+        "Backend Development",
+        "Cybersecurity",
+        "Post-Quantum Cryptography",
+        "Cloud & DevOps"
+    ],
+
+    currentlyBuilding: [
+        "DeployX",
+        "SecureBank",
+        "Post-Quantum Secure Chat"
+    ],
+
+    learning: [
+        "AWS",
+        "System Design",
+        "Distributed Systems"
+    ]
+}
 
 ---
 
