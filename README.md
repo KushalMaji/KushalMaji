@@ -124,7 +124,7 @@ A cybersecurity research project demonstrating secure communication against Man-
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/kushal-maji-578688420/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
