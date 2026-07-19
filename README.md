@@ -1,275 +1,109 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kushal Maji</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | DSA Enthusiast</h3>
 
-# Hi 👋, I'm Kushal Maji
-
-### Full-Stack Developer • Cybersecurity Enthusiast • DSA Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Cybersecurity+Researcher;Building+Scalable+Applications;Exploring+Post-Quantum+Cryptography;React+%7C+Node.js+%7C+AWS+%7C+Docker;Always+Learning+🚀"/>
-
-<br>
-
-<a href="mailto:kushalmajiwork@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kushal-maji-578688420/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KushalMaji">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/KushalMaji">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor;DSA+Enthusiast" />
+  </a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```ts
-const kushal = {
-    location: "India",
-
-    role: "Full-Stack Developer",
-
-    interests: [
-        "Backend Engineering",
-        "Cybersecurity",
-        "Cloud Computing",
-        "System Design",
-        "Open Source"
-    ],
-
-    currentlyBuilding: [
-        "DeployX",
-        "SecureBank",
-        "Post-Quantum Secure Chat"
-    ],
-
-    currentlyLearning: [
-        "AWS",
-        "Distributed Systems",
-        "Advanced Backend Development"
-    ],
-
-    askMeAbout: [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Docker",
-        "Cybersecurity"
-    ]
-}
-```
+- 🎓 Computer Science Student studying at B.N.M. Institute of Technology
+- 💻 Passionate about Full-Stack Development & Cybersecurity
+- 🔐 Interested in Post-Quantum Cryptography & Secure Systems
+- 🚀 Currently building scalable web applications and DevOps tools
+- 🌱 Always learning new technologies and contributing to open source
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚀 DeployX
+### 🚀 DeployX
+A beginner-friendly CI/CD platform that automates application deployment using **Node.js, Express, TypeScript, Docker, AWS EC2, and GitHub Actions**.
 
-> Beginner-friendly CI/CD platform that automates application deployment using Docker, AWS EC2 and GitHub Actions.
+**Tech Stack**
 
-**Tech**
-
-`Node.js`
-`Express`
-`TypeScript`
-`Docker`
-`AWS`
-`GitHub Actions`
+`Node.js` `Express` `TypeScript` `Docker` `AWS EC2` `GitHub Actions`
 
 ---
 
-## 🔐 Post-Quantum Secure Chat
+### 🔐 Post-Quantum Secure Chat
 
-> Quantum-resistant secure communication using ML-KEM-768 for key exchange and AES-256 encryption.
+A secure communication system implementing **ML-KEM-768** for quantum-resistant key exchange and **AES-256** for encrypted messaging.
 
-**Tech**
+**Tech Stack**
 
-`C`
-`liboqs`
-`ML-KEM-768`
-`AES-256`
-`SeedLabs`
+`C` `liboqs` `ML-KEM-768` `AES-256` `SeedLabs` `Kali Linux`
 
 ---
 
-## 🏦 SecureBank
+### 🏦 SecureBank
 
-> Secure banking web application implementing authentication, authorization, encrypted sessions and secure transaction workflows.
+A secure banking web application focused on authentication, authorization, secure transactions, and modern web security best practices.
 
-**Tech**
+**Tech Stack**
 
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`JWT`
+`React` `Node.js` `Express` `MongoDB` `JWT` `bcrypt`
 
 ---
 
-## 🛡️ Post-Quantum MITM Protection
-
-> Research project demonstrating secure communication against Man-in-the-Middle attacks using Post-Quantum Cryptography.
-
-**Tech**
-
-`C`
-`liboqs`
-`ML-KEM-768`
-`SeedLabs`
-`Linux`
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
+## 💻 Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,mysql" />
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis"/>
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KushalMaji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalMaji&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KushalMaji&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalMaji&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushalMaji&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KushalMaji&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KushalMaji&theme=tokyonight&margin-w=12&no-frame=true"/>
-
-</div>
-
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushalMaji&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-🚀 Building scalable backend systems
-
-🔐 Exploring Post-Quantum Cryptography
-
-☁️ Learning AWS & Cloud Infrastructure
-
-📚 Solving Data Structures & Algorithms
-
-🤝 Contributing to Open Source
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:kushalmajiwork@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/KushalMaji">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kushal-maji-578688420/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<br><br>
-
-**📧 kushalmajiwork@gmail.com**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KushalMaji&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Requires one-time setup (about 2 minutes).**
-
-After creating the workflow, add:
-
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/KushalMaji/KushalMaji/output/github-contribution-grid-snake-dark.svg"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
-```
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux" />
+</p>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-## ⭐ "Building secure, scalable and impactful software one commit at a time."
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KushalMaji&theme=tokyonight&hide_border=true"/>
+</p>
 
-If you like my work, consider ⭐ starring my repositories.
+---
 
-</div>
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/KushalMaji" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/kushal-maji-578688420/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="mailto:kushalmajiwork@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+
+</p>
+
+---
+
+⭐ *"Building secure, scalable, and impactful software one project at a time."*
