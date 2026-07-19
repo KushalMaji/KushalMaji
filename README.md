@@ -78,30 +78,10 @@ A secure banking web application focused on authentication, authorization, secur
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KushalMaji&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalMaji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=KushalMaji&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KushalMaji&theme=tokyonight&margin-w=15&no-frame=true"/>
 </p>
 
 ---
