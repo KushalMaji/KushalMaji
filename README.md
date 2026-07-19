@@ -50,16 +50,6 @@ A secure banking web application focused on authentication, authorization, secur
 
 ---
 
-### 🛡️ Post-Quantum MITM Protection
-
-A cybersecurity research project demonstrating secure communication against Man-in-the-Middle attacks using **ML-KEM-768** and the Open Quantum Safe library.
-
-**Tech Stack**
-
-`C` `liboqs` `ML-KEM-768` `SeedLabs` `Linux`
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
