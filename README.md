@@ -78,14 +78,6 @@ A secure banking web application focused on authentication, authorization, secur
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KushalMaji&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
